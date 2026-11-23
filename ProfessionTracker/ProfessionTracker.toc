@@ -1,0 +1,22 @@
+## Interface: 16001
+## Title: Profession Tracker
+## Notes: Compact per-character profession skill bars.
+## Author: Profession Tracker Contributors
+## Version: 1.0.0
+## AllowLoadGameType: camelot
+## OptionalDeps: Auctionator, EllesmereUI, EllesmereUIBlizzardSkin
+## SavedVariablesPerCharacter: ProfessionTrackerDB
+
+ProfessionTracker.lua
+ProfessionTrackerGuideData.lua
+ProfessionTrackerCrafting.lua
+ProfessionTrackerOptions.lua
+
+
+
+
+
+
+
+
+
